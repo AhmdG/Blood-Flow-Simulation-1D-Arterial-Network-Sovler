@@ -1,0 +1,2 @@
+# Blood-Flow-Simulation-1D-Arterial-Network-Sovler
+1D Arterial Hemodynamics Solver A lightweight CFD solver for simulating blood flow and pressure wave propagation in the human arterial network. Based on the 1D Navier-Stokes equations, it captures wave reflections and vessel elasticity. Ideal for generating synthetic "virtual patient" datasets and testing cardiovascular models with high efficiency.
